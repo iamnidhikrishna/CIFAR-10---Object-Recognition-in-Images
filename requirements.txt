@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+opencv-python==4.9.0.80
+Pillow==10.3.0
+scikit-learn==1.5.0
+tensorflow==2.15.0
+kaggle==1.6.6
+py7zr==1.0.0
